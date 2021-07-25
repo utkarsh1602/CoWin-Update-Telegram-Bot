@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-
+print("testing")
 # if True:
 # 	os.environ['http_proxy'] = "127.0.0.1:8888"
 # 	os.environ['https_proxy'] = "127.0.0.1:8888"
